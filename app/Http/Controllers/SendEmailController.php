@@ -4,32 +4,22 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
-use App\Mail\SendMail;
+use App\Mail\ContactMail;
+use App\Models\Email;
 
 class SendEmailController extends Controller
 {
-    //  public function mailsend()
-    // {
-    //     $details = [
-    //         'title' => 'Title: Mail from Real Programmer',
-    //         'body' => 'Body: This is for testing email using smtp'
-    //     ];
-
-    //     \Mail::to('binmohamed030@gmail.com@gmail.com')->send(new SendMail($details));
-    //     return back();
-    // }
-
-     public function index()
-    { 
-    $to_name = 'TO_NAME';
-    $to_email = 'binmohamed030@gmail.com';
-    $data = array('name'=>"Sam Jose", "body" => "Test mail");
-        
-    Mail::send('salumwaukweli@hotmail.com', $data, function($message) use ($to_name, $to_email) {
-        $message->to($to_email, $to_name)
-                ->subject('Artisans Web Testing Mail');
-        $message->from('FROM_EMAIL_ADDRESS','Artisans Web');
-    });
-}
-    
+   public function store(Request $request)
+    {
+        $request->validate([
+            'name' => 'required',
+            'email' => 'required|email',
+            'subject' => 'required',
+            'message' => 'required'
+        ]);
+  
+        Email::create($request->all());
+         return back();
+        // return redirect('/')->with(['success' => 'Thank you for contact us. we will contact you shortly.']);
+    }    
 }

@@ -9,31 +9,31 @@ use Illuminate\Mail\Mailables\Content;
 use Illuminate\Mail\Mailables\Envelope;
 use Illuminate\Queue\SerializesModels;
 
-
-class SendMail extends Mailable
+class ContactMail extends Mailable
 {
-   use Queueable, SerializesModels;
+    use Queueable, SerializesModels;
+
+    public $data;
   
-    public $details;
-   
     /**
      * Create a new message instance.
      *
      * @return void
      */
-    public function __construct($details)
+    public function __construct($data)
     {
-        $this->details = $details;
+        $this->data = $data;
     }
-   
+  
     /**
      * Build the message.
      *
      * @return $this
      */
-     public function build()
+    public function build()
     {
-        return $this->subject('Mail from Real Programmer')
-                    ->view('myEmailView');
+        return $this->subject('Contact US - '. $this->data->subject)->view('contact');
+        // return $this->subject('Mail from ItSolutionStuff.com')
+        //             ->view('contact');
     }
 }

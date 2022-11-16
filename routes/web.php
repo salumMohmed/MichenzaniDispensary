@@ -16,4 +16,4 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
-Route::post('sendemail', 'App\Http\Controllers\SendEmailController@index');
+Route::post('sendemail', 'App\Http\Controllers\SendEmailController@store');

@@ -85,7 +85,7 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(assets/img/slide/mp.slide001.jpg)">
+        <div class="carousel-item active" style="background-image: url(assets/img/slide/2.jpg)">
           <!-- <div class="container">
             <h2>Welcome to <span>Medicio</span></h2>
             <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel.</p>
@@ -174,7 +174,10 @@
 
         <div class="text-center">
           <h3>In an emergency? Need help now?</h3>
-          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <p>
+            You can make an appoitment at any time when you need the doctor and the price is shown bellow as provided a discount to the patient.
+            the appointment done after the working hours the charge will exceed 100%.
+          </p>
           <a class="cta-btn scrollto" href="#appointment">Make an Make an Appointment</a>
         </div>
 
@@ -312,17 +315,17 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon"><i class="fas fa-heartbeat"></i></div>
-            <h4 class="title"><a href="">General Tratment</a></h4>
+            <h4 class="title"><a href="">General Treatments</a></h4>
             <!-- <p class="description">Treatments can include medicine, therapy, surgery, or other approaches. A cure is when a treatment makes a health problem go away for good. Some health problems have a cure</p> -->
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon"><i class="fas fa-pills"></i></div>
-            <h4 class="title"><a href="">Home Tratment</a></h4>
+            <h4 class="title"><a href="">Home Treatments</a></h4>
             <!-- <p class="description">This Treatments can include medicine, therapy, surgery, or other approaches the Doctor are araival the place you have. A cure is when a treatment makes a health problem go away for good. Some health problems have a cure</p> -->
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon"><i class="fas fa-hospital-user"></i></div>
-            <h4 class="title"><a href="">Apoitment</a></h4>
+            <h4 class="title"><a href="">Appoitment</a></h4>
             <!-- <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p> -->
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="100">
@@ -332,12 +335,12 @@
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon"><i class="fas fa-wheelchair"></i></div>
-            <h4 class="title"><a href="">Darmatology Consultation</a></h4>
+            <h4 class="title"><a href="">Dermatology Consultation</a></h4>
             <!-- <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p> -->
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon"><i class="fas fa-notes-medical"></i></div>
-            <h4 class="title"><a href="">Labolatory</a></h4>
+            <h4 class="title"><a href="">Laboratory</a></h4>
             <!-- <p class="description">The organisation and contents of laboratories are determined by the differing requirements of the specialists working within. A physics laboratory might contain a particle accelerator or vacuum chamber, while a metallurgy laboratory could have apparatus for casting or refining metals or for testing their strength. </p> -->
           </div>
         </div>
@@ -351,7 +354,7 @@
 
         <div class="section-title">
           <h2>Make an Appointment</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
         <form action="forms/appointment.php" method="post" role="form" class="php-email-form" data-aos="fade-up" data-aos-delay="100">
@@ -583,7 +586,7 @@
 
         <div class="section-title">
           <h2>Doctors</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
         <div class="row">
@@ -601,7 +604,7 @@
               </div>
               <div class="member-info">
                 <h4>Dr. Mohamed Juma Salum</h4>
-                <span>General Doctor & Chief Medical Officer</span>
+                <span>Medical Doctor & Medical Director</span>
               </div>
             </div>
           </div>
@@ -611,15 +614,15 @@
               <div class="member-img">
                 <img src="assets/img/doctors/4.jpg" class="img-fluid" alt="">
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
+                  <!-- <a href=""><i class="bi bi-facebook"></i></a> -->
                   <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <!-- <a href=""><i class="bi bi-linkedin"></i></a> -->
                 </div>
               </div>
               <div class="member-info">
                 <h4>Dr. Juma Muhsin Ali</h4>
-                <span>Specialist in Damatology</span>
+                <span>AMO Dermatologist</span>
               </div>
             </div>
           </div>
@@ -637,7 +640,7 @@
               </div>
               <div class="member-info">
                 <h4>Dr Juma Salum Mbwana (Mambi)</h4>
-                <span>General Doctor & Radiology</span>
+                <span>Medical Doctor &AMO  Radiologist</span>
               </div>
             </div>
           </div>
@@ -654,7 +657,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Dr. Mfuko</h4>
+                <h4>Dr. Godlove Peter Mfuko</h4>
                 <span>Super Specialist in ENT</span>
               </div>
             </div>
@@ -671,7 +674,7 @@
 
         <div class="section-title">
           <h2>Gallery</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
         <div class="gallery-slider swiper">
