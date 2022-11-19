@@ -46,7 +46,7 @@
         <i class="bi bi-clock"></i> Monday - Sunday, 8AM to 10PM
       </div>
       <div class="d-flex align-items-center">
-        <i class="bi bi-phone"></i> Call us now +255 713 863 010 / +255 629 137 170
+        <i class="bi bi-phone"></i> Call us now +255 713 863 010
       </div>
     </div>
   </div>
@@ -64,7 +64,7 @@
           <li><a class="nav-link scrollto " href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto" href="#departments">Departments</a></li>
+          <li><a class="nav-link scrollto" href="#departments">Our Hospital</a></li>
           <li><a class="nav-link scrollto" href="#doctors">Doctors</a></li>   
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
@@ -85,30 +85,25 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(assets/img/slide/2.jpg)">
-          <!-- <div class="container">
-            <h2>Welcome to <span>Medicio</span></h2>
-            <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel.</p>
-            <a href="#about" class="btn-get-started scrollto">Read More</a>
-          </div> -->
+        <div class="carousel-item active" style="background-image: url(assets/img/slide/mp.slide005.jpeg)">
+      
         </div>
 
         <!-- Slide 2 -->
         <div class="carousel-item" style="background-image: url(assets/img/slide/mp.slide-2.jpeg)">
-          <!-- <div class="container">
-            <h2>Lorem Ipsum Dolor</h2>
-            <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel.</p>
-            <a href="#about" class="btn-get-started scrollto">Read More</a>
-          </div> -->
+         
         </div>
 
         <!-- Slide 3 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide/mp.slide-3.jpeg)">
-          <!-- <div class="container">
-            <h2>Sequi ea ut et est quaerat</h2>
-            <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel.</p>
-            <a href="#about" class="btn-get-started scrollto">Read More</a>
-          </div> -->
+        <div class="carousel-item" style="background-image: url(assets/img/slide/mp.slide001.jpeg)">
+         
+        </div>
+
+         <div class="carousel-item" style="background-image: url(assets/img/slide/mp.slide003.jpeg)">
+         
+        </div>
+         <div class="carousel-item" style="background-image: url(assets/img/slide/1.jpg)">
+         
         </div>
 
       </div>
@@ -127,7 +122,7 @@
   <main id="main">
 
     <!-- ======= Featured Services Section ======= -->
-    <section id="featured-services" class="featured-services">
+    <!-- <section id="featured-services" class="featured-services">
       <div class="container" data-aos="fade-up">
 
         <div class="row">
@@ -166,7 +161,8 @@
         </div>
 
       </div>
-    </section><!-- End Featured Services Section -->
+    </section> -->
+    <!-- End Featured Services Section -->
 
     <!-- ======= Cta Section ======= -->
     <section id="cta" class="cta">
@@ -203,17 +199,15 @@
               Background of Our hospital.
             </p>
             <p>
-              Our hospital Located in Mwembetanga (Michenzani Block Number 8) Zanzibar. Started in 1998
-            </p>
-            <ul>
+              Our hospital Located in Mwembetanga (Michenzani Block Number 8) Zanzibar.</p>
+            <!-- <ul>
               <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
               <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
               <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
+            </ul> -->
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+              Michenzani Dispensary is the medical facility centre worked to help community in improving health service and it was established and fully registered since 2000 . It was re registered  in 2022 electronically and operating as a privated health centre under the law of Revolutionary Government of Zanzibar .
+The aim is to give the best and appropriate health care to  the local community and foreigners as well due to the main centre area  of Tourism in Zanzibar 
             </p>
           </div>
         </div>
@@ -278,23 +272,33 @@
           <div class="col-lg-6 order-2 order-lg-1" data-aos="fade-right">
             <div class="icon-box mt-5 mt-lg-0">
               <i class="bx bx-receipt"></i>
-              <h4>Est labore ad</h4>
-              <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+              <h4>Full blood picture (FBP) </h4>
+              <p>Price: -----  <span class="price">50$</span></p>
             </div>
             <div class="icon-box mt-5">
               <i class="bx bx-cube-alt"></i>
-              <h4>Harum esse qui</h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+              <h4>Renal function test (RFT)</h4>
+              <p>Price: -----  <span class="price">70$</span></p>
             </div>
             <div class="icon-box mt-5">
               <i class="bx bx-images"></i>
-              <h4>Aut occaecati</h4>
-              <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+              <h4>Liver function test (LFT)</h4>
+              <p>Price: -----  <span class="price">70$</span></p>
             </div>
             <div class="icon-box mt-5">
               <i class="bx bx-shield"></i>
-              <h4>Beatae veritatis</h4>
-              <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+              <h4>Lipid profile</h4>
+              <p>Price: -----  <span class="price">50$</span></p>
+            </div>
+            <div class="icon-box mt-5">
+              <i class="bx bx-square"></i>
+              <h4>Hb1ac</h4>
+              <p>Price: -----  <span class="price">50$</span></p>
+            </div>
+            <div class="icon-box mt-5">
+              <i class="bx bx-leaf"></i>
+              <h4>PSA</h4>
+              <p>Price: -----  <span class="price">50$</span></p>
             </div>
           </div>
           <div class="image col-lg-6 order-1 order-lg-2" style='background-image: url("assets/img/features.jpg");' data-aos="zoom-in"></div>
@@ -319,7 +323,7 @@
             <!-- <p class="description">Treatments can include medicine, therapy, surgery, or other approaches. A cure is when a treatment makes a health problem go away for good. Some health problems have a cure</p> -->
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon"><i class="fas fa-pills"></i></div>
+            <div class="icon"><i class="fas fa-medkit"></i></div>
             <h4 class="title"><a href="">Home Treatments</a></h4>
             <!-- <p class="description">This Treatments can include medicine, therapy, surgery, or other approaches the Doctor are araival the place you have. A cure is when a treatment makes a health problem go away for good. Some health problems have a cure</p> -->
           </div>
@@ -334,7 +338,7 @@
             <!-- <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p> -->
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon"><i class="fas fa-wheelchair"></i></div>
+            <div class="icon"><i class="fas fa-stethoscope"></i></div>
             <h4 class="title"><a href="">Dermatology Consultation</a></h4>
             <!-- <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p> -->
           </div>
@@ -357,7 +361,7 @@
           <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
-        <form action="forms/appointment.php" method="post" role="form" class="php-email-form" data-aos="fade-up" data-aos-delay="100">
+        <form action="sendemail" method="post" role="form" class="php-email-form" data-aos="fade-up" data-aos-delay="100">
           <div class="row">
             <div class="col-md-4 form-group">
               <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
@@ -406,8 +410,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Departments</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Our Hospital</h2>
+          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -502,7 +506,7 @@
 
         <div class="section-title">
           <h2>Testimonials</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
@@ -512,24 +516,22 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                 Your service is very good. thank you very much.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <h3>Mohammed Shukri</h3>
+                <h4>Ceo &amp; Najah Technology</h4>
               </div>
             </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>      
+It's true that you care a lot, I'm happy with your services, I really like the way you served me
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
+                <h3>Salah </h3>
                 <h4>Designer</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -538,38 +540,11 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+        Michenzani dispensary you have made me very happy, you have served my guests well and I promise I will be with you to ensure that tourists get good service
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
+                <h3>Hassan</h3>
+                <h4>Tour guider</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -701,7 +676,7 @@
 
         <div class="section-title">
           <h2>Pricing</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
         <div class="row">
@@ -783,7 +758,7 @@
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
       </div>
@@ -869,8 +844,9 @@
               <h3>Michenzani Dispensary</h3>
               <p>
                 Mwembetanga <br>
-                Zanzibar<br><br>
+                Zanzibar<br>
                 <strong>Phone:</strong> +255 713 863 010<br>
+                <strong>Phone:</strong> +255 629 137 170<br>
                 <strong>Email:</strong> info@mp.co.tz<br>
                 <strong>Email:</strong> michenzanidispensary@gmail.com<br>
               </p>
@@ -890,7 +866,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#hero">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#departments">Departments</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#departments">Our Hospital</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#doctors">Doctors</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contact</a></li>
             </ul>
@@ -898,7 +874,7 @@
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <!-- <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p> -->
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
